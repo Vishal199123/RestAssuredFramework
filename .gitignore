@@ -1,0 +1,4 @@
+RestAssuredFramework/target/*
+.idea/
+*.iml
+
